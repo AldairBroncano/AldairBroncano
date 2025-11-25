@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋Hi, I'm Aldair and welcome to my repositories
+### Full Stack Dev
 
-<!--
-**AldairBroncano/AldairBroncano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresado de **Computación e Informática**  
+💻 Actualmente me estoy especializando en **desarrollo Java Full Stack con Spring Boot**  
+⚡ Apasionado por crear aplicaciones funcionales y aprender nuevas tecnologías
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages, frameworks and tools:
+
+### Main stack for back-end
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=gradle" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=maven" />
+</p>
+
+### Main stack for front-end
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+
+
+
+

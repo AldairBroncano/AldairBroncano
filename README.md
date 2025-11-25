@@ -1,10 +1,14 @@
 # 👋Hi, I'm Aldair and welcome to my repositories
 ### Full Stack Dev
 
-🎓 Egresado de **Computación e Informática**  
-💻 Actualmente me estoy especializando en **desarrollo Java Full Stack con Spring Boot**  
-⚡ Apasionado por crear aplicaciones funcionales y aprender nuevas tecnologías
-  
+🎓 Graduate in **Computer Science and Informatics**  
+💻 Currently specializing in **Java Full Stack development with Spring Boot**  
+⚡ Passionate about building functional applications and learning new technologies
+
+## 🎯 Current Goal
+
+Continue growing as a **Java Full Stack Developer**, practice for technical interviews, and gain experience in real-world projects.
+
 
 
 ## Languages, frameworks and tools:
@@ -38,6 +42,9 @@
 </p>
 
 
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldair-broncano-98327221b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldairbroncanosotelo@gmail.com)
 
 
